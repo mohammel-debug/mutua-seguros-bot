@@ -1,1 +1,1 @@
-# alquiler-coches-bot
+# mutua-seguros_bot
